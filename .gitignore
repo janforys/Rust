@@ -10,4 +10,4 @@ Cargo.lock
 **/*.rs.bk
 
 # Other
-Cargo.toml
+#Cargo.toml
